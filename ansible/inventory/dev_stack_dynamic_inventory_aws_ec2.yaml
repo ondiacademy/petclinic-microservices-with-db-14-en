@@ -12,5 +12,5 @@ keyed_groups:
     prefix: 'role'
 hostnames:
   - "ip-address"
-compose:
-  ansible_user: "'ubuntu'"
+# compose:
+#   ansible_user: "'ubuntu'"
