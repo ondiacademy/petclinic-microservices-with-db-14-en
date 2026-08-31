@@ -23,3 +23,5 @@ generated/
 
 # Terraform
 **/.terraform/
+
+terraform.tfstate
